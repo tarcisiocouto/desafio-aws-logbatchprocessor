@@ -1,0 +1,5 @@
+2025-10-28 09:15:23 INFO [UserService] User authentication successful for user_id: 12345
+2025-10-28 09:15:24 DEBUG [DatabaseConnection] Connection pool size: 10/50
+2025-10-28 09:15:25 INFO [OrderService] New order created: order_id=ORD-2025-001
+2025-10-28 09:15:26 WARN [PaymentGateway] Payment processing timeout, retrying...
+2025-10-28 09:15:27 INFO [PaymentGateway] Payment successful: transaction_id=TXN-987654
